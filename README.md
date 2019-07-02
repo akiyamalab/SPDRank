@@ -1,5 +1,5 @@
 # SPDRank
-![SPDRank](https://github.com/akiyamalab/SPDRank/img.png)
+![SPDRank](https://github.com/akiyamalab/SPDRank/blob/master/img.png)
 **SPDRank** is stochastic pairwise descent RankSVM method with ignoring meaningless ranking orders that used on _Learning-to-Rank Technique based on Ignoring Meaningless Ranking Orders between Compounds_.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
