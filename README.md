@@ -5,11 +5,11 @@
 
 
 ## Requirements
-| Python 3 |
-| NumPy |
-| SciPy |
-| Scikit-learn |
-| RDKit (for `pubchem2svmlight.py`) |
+- Python 3
+- NumPy
+- SciPy 
+- Scikit-learn 
+- RDKit (for `pubchem2svmlight.py`) 
 
 
 ## Reference
