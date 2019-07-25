@@ -15,7 +15,7 @@
 
 
 ## Reference
-Masahito Ohue, Shogo D. Suzuki, Yutaka Akiyama. **Learning-to-Rank Technique based on Ignoring Meaningless Ranking Orders between Compounds**. *Journal of Molecular Graphics and Modelling*. (accepted)
+Masahito Ohue, Shogo D. Suzuki, Yutaka Akiyama. **![Learning-to-Rank Technique based on Ignoring Meaningless Ranking Orders between Compounds](https://doi.org/10.1016/j.jmgm.2019.07.009)**. *Journal of Molecular Graphics and Modelling*. https://doi.org/10.1016/j.jmgm.2019.07.009 (in press)
 
 
 ## Fundings
